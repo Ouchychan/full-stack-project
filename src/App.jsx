@@ -3,7 +3,7 @@ import { Button, Table, Modal, Form, Row, Col } from "react-bootstrap";
 import { FaEdit, FaTrashAlt } from "react-icons/fa";
 import axios from "axios";
 
-const API_URL = "https://24fea8fd-8897-4edb-803b-7d7559c87084-00-p9u0ugs7fhkg.sisko.replit.dev";
+const API_URL = "https://c99d4dec-1d02-4309-b5c8-99a47c4a0752-00-2xtubromkj12o.pike.replit.dev";
 const PASTRIES = [
   "Croissants", "Chocolate Eclairs", "Apple Tarts", "Cinnamon Rolls",
   "Macarons", "Blueberry Muffins", "Cheese Danishes", "Strawberry Shortcakes",
